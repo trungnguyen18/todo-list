@@ -33,4 +33,7 @@
  9. deleteTask()
 
  10. test thay đổi github 1
+ git commit -a -m "update checklist.md line 36"
+ git status
+ git push origin
  

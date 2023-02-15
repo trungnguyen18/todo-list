@@ -32,7 +32,7 @@
 
  9. deleteTask()
 
- 10. test thay đổi github 1
+ 10. test thay đổi github 1 => thay đổi thành 2
  git commit -a -m "update checklist.md line 36"
  git status
  git push origin
